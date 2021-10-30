@@ -27,7 +27,7 @@ Week 12 miniproject
 (./images/ViewALLs.PNG)
 
 # Link
-[Link to the Repo](https://github.com/BCole37/Note-Taker/tree/master)
+[Link to the Repo](https://github.com/BCole37/Employee-Tracker)
 
 [Link to the video](https://watch.screencastify.com/v/lkN1omcI4esj4Y12JAdK)
 
