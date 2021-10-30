@@ -22,9 +22,9 @@ Week 12 miniproject
 
  
 # ScreenShot
-(./images/adds.PNG)
-(./images/update.PNG)
-(./images/ViewALLs.PNG)
+![View Alls](./images/ViewALLs.PNG)
+![add](images/adds.PNG)
+![Update](./images/update.PNG)
 
 # Link
 [Link to the Repo](https://github.com/BCole37/Employee-Tracker)
